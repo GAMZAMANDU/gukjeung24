@@ -1,0 +1,1864 @@
+{
+  "과학기술정보방송통신위원회": {
+    "committee_name": "과학기술정보방송통신위원회",
+    "member_count": 20,
+    "members": [
+      {
+        "name": "김우영",
+        "party": "더불어민주당",
+        "constituency": "서울 은평구을"
+      },
+      {
+        "name": "김장겸",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "김현",
+        "party": "더불어민주당",
+        "constituency": "경기 안산시을"
+      },
+      {
+        "name": "노종면",
+        "party": "더불어민주당",
+        "constituency": "인천 부평구갑"
+      },
+      {
+        "name": "박민규",
+        "party": "더불어민주당",
+        "constituency": "서울 관악구갑"
+      },
+      {
+        "name": "박정훈",
+        "party": "국민의힘",
+        "constituency": "서울 송파구갑"
+      },
+      {
+        "name": "박충권",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "신성범",
+        "party": "국민의힘",
+        "constituency": "경남 산청군함양군거창군합천군"
+      },
+      {
+        "name": "이상휘",
+        "party": "국민의힘",
+        "constituency": "경북 포항시남구울릉군"
+      },
+      {
+        "name": "이정헌",
+        "party": "더불어민주당",
+        "constituency": "서울 광진구갑"
+      },
+      {
+        "name": "이준석",
+        "party": "개혁신당",
+        "constituency": "경기 화성시을"
+      },
+      {
+        "name": "이해민",
+        "party": "조국혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "이훈기",
+        "party": "더불어민주당",
+        "constituency": "인천 남동구을"
+      },
+      {
+        "name": "정동영",
+        "party": "더불어민주당",
+        "constituency": "전북 전주시병"
+      },
+      {
+        "name": "조인철",
+        "party": "더불어민주당",
+        "constituency": "광주 서구갑"
+      },
+      {
+        "name": "최민희",
+        "party": "더불어민주당",
+        "constituency": "경기 남양주시갑"
+      },
+      {
+        "name": "최수진",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "최형두",
+        "party": "국민의힘",
+        "constituency": "경남 창원시마산합포구"
+      },
+      {
+        "name": "한민수",
+        "party": "더불어민주당",
+        "constituency": "서울 강북구을"
+      },
+      {
+        "name": "황정아",
+        "party": "더불어민주당",
+        "constituency": "대전 유성구을"
+      }
+    ]
+  },
+  "교육위원회": {
+    "committee_name": "교육위원회",
+    "member_count": 16,
+    "members": [
+      {
+        "name": "강경숙",
+        "party": "조국혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "고민정",
+        "party": "더불어민주당",
+        "constituency": "서울 광진구을"
+      },
+      {
+        "name": "김대식",
+        "party": "국민의힘",
+        "constituency": "부산 사상구"
+      },
+      {
+        "name": "김문수",
+        "party": "더불어민주당",
+        "constituency": "전남 순천시광양시곡성군구례군갑"
+      },
+      {
+        "name": "김민전",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "김영호",
+        "party": "더불어민주당",
+        "constituency": "서울 서대문구을"
+      },
+      {
+        "name": "김용태",
+        "party": "국민의힘",
+        "constituency": "경기 포천시가평군"
+      },
+      {
+        "name": "김준혁",
+        "party": "더불어민주당",
+        "constituency": "경기 수원시정"
+      },
+      {
+        "name": "문정복",
+        "party": "더불어민주당",
+        "constituency": "경기 시흥시갑"
+      },
+      {
+        "name": "박성준",
+        "party": "더불어민주당",
+        "constituency": "서울 중구성동구을"
+      },
+      {
+        "name": "백승아",
+        "party": "더불어민주당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "서지영",
+        "party": "국민의힘",
+        "constituency": "부산 동래구"
+      },
+      {
+        "name": "정성국",
+        "party": "국민의힘",
+        "constituency": "부산 부산진구갑"
+      },
+      {
+        "name": "정을호",
+        "party": "더불어민주당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "조정훈",
+        "party": "국민의힘",
+        "constituency": "서울 마포구갑"
+      },
+      {
+        "name": "진선미",
+        "party": "더불어민주당",
+        "constituency": "서울 강동구갑"
+      }
+    ]
+  },
+  "국방위원회": {
+    "committee_name": "국방위원회",
+    "member_count": 16,
+    "members": [
+      {
+        "name": "강대식",
+        "party": "국민의힘",
+        "constituency": "대구 동구군위군을"
+      },
+      {
+        "name": "강선영",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "김민석",
+        "party": "더불어민주당",
+        "constituency": "서울 영등포구을"
+      },
+      {
+        "name": "김병주",
+        "party": "더불어민주당",
+        "constituency": "경기 남양주시을"
+      },
+      {
+        "name": "박선원",
+        "party": "더불어민주당",
+        "constituency": "인천 부평구을"
+      },
+      {
+        "name": "백선희",
+        "party": "조국혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "부승찬",
+        "party": "더불어민주당",
+        "constituency": "경기 용인시병"
+      },
+      {
+        "name": "성일종",
+        "party": "국민의힘",
+        "constituency": "충남 서산시태안군"
+      },
+      {
+        "name": "안규백",
+        "party": "더불어민주당",
+        "constituency": "서울 동대문구갑"
+      },
+      {
+        "name": "윤상현",
+        "party": "국민의힘",
+        "constituency": "인천 동구미추홀구을"
+      },
+      {
+        "name": "임종득",
+        "party": "국민의힘",
+        "constituency": "경북 영주시영양군봉화군"
+      },
+      {
+        "name": "추미애",
+        "party": "더불어민주당",
+        "constituency": "경기 하남시갑"
+      },
+      {
+        "name": "한기호",
+        "party": "국민의힘",
+        "constituency": "강원 춘천시철원군화천군양구군을"
+      },
+      {
+        "name": "허영",
+        "party": "더불어민주당",
+        "constituency": "강원 춘천시철원군화천군양구군갑"
+      },
+      {
+        "name": "황명선",
+        "party": "더불어민주당",
+        "constituency": "충남 논산시계룡시금산군"
+      },
+      {
+        "name": "황희",
+        "party": "더불어민주당",
+        "constituency": "서울 양천구갑"
+      }
+    ]
+  },
+  "국토교통위원회": {
+    "committee_name": "국토교통위원회",
+    "member_count": 30,
+    "members": [
+      {
+        "name": "권영진",
+        "party": "국민의힘",
+        "constituency": "대구 달서구병"
+      },
+      {
+        "name": "김도읍",
+        "party": "국민의힘",
+        "constituency": "부산 강서구"
+      },
+      {
+        "name": "김은혜",
+        "party": "국민의힘",
+        "constituency": "경기 성남시분당구을"
+      },
+      {
+        "name": "김정재",
+        "party": "국민의힘",
+        "constituency": "경북 포항시북구"
+      },
+      {
+        "name": "김종양",
+        "party": "국민의힘",
+        "constituency": "경남 창원시의창구"
+      },
+      {
+        "name": "김희정",
+        "party": "국민의힘",
+        "constituency": "부산 연제구"
+      },
+      {
+        "name": "맹성규",
+        "party": "더불어민주당",
+        "constituency": "인천 남동구갑"
+      },
+      {
+        "name": "문진석",
+        "party": "더불어민주당",
+        "constituency": "충남 천안시갑"
+      },
+      {
+        "name": "민홍철",
+        "party": "더불어민주당",
+        "constituency": "경남 김해시갑"
+      },
+      {
+        "name": "박용갑",
+        "party": "더불어민주당",
+        "constituency": "대전 중구"
+      },
+      {
+        "name": "배준영",
+        "party": "국민의힘",
+        "constituency": "인천 중구강화군옹진군"
+      },
+      {
+        "name": "복기왕",
+        "party": "더불어민주당",
+        "constituency": "충남 아산시갑"
+      },
+      {
+        "name": "손명수",
+        "party": "더불어민주당",
+        "constituency": "경기 용인시을"
+      },
+      {
+        "name": "송기헌",
+        "party": "더불어민주당",
+        "constituency": "강원 원주시을"
+      },
+      {
+        "name": "안태준",
+        "party": "더불어민주당",
+        "constituency": "경기 광주시을"
+      },
+      {
+        "name": "엄태영",
+        "party": "국민의힘",
+        "constituency": "충북 제천시단양군"
+      },
+      {
+        "name": "염태영",
+        "party": "더불어민주당",
+        "constituency": "경기 수원시무"
+      },
+      {
+        "name": "윤재옥",
+        "party": "국민의힘",
+        "constituency": "대구 달서구을"
+      },
+      {
+        "name": "윤종군",
+        "party": "더불어민주당",
+        "constituency": "경기 안성시"
+      },
+      {
+        "name": "윤종오",
+        "party": "진보당",
+        "constituency": "울산 북구"
+      },
+      {
+        "name": "이건태",
+        "party": "더불어민주당",
+        "constituency": "경기 부천시병"
+      },
+      {
+        "name": "이소영",
+        "party": "더불어민주당",
+        "constituency": "경기 의왕시과천시"
+      },
+      {
+        "name": "이연희",
+        "party": "더불어민주당",
+        "constituency": "충북 청주시흥덕구"
+      },
+      {
+        "name": "이종욱",
+        "party": "국민의힘",
+        "constituency": "경남 창원시진해구"
+      },
+      {
+        "name": "이춘석",
+        "party": "더불어민주당",
+        "constituency": "전북 익산시갑"
+      },
+      {
+        "name": "전용기",
+        "party": "더불어민주당",
+        "constituency": "경기 화성시정"
+      },
+      {
+        "name": "정점식",
+        "party": "국민의힘",
+        "constituency": "경남 통영시고성군"
+      },
+      {
+        "name": "정준호",
+        "party": "더불어민주당",
+        "constituency": "광주 북구갑"
+      },
+      {
+        "name": "한준호",
+        "party": "더불어민주당",
+        "constituency": "경기 고양시을"
+      },
+      {
+        "name": "황운하",
+        "party": "조국혁신당",
+        "constituency": "비례대표"
+      }
+    ]
+  },
+  "국회운영위원회": {
+    "committee_name": "국회운영위원회",
+    "member_count": 27,
+    "members": [
+      {
+        "name": "강명구",
+        "party": "국민의힘",
+        "constituency": "경북 구미시을"
+      },
+      {
+        "name": "고민정",
+        "party": "더불어민주당",
+        "constituency": "서울 광진구을"
+      },
+      {
+        "name": "권성동",
+        "party": "국민의힘",
+        "constituency": "강원 강릉시"
+      },
+      {
+        "name": "권영진",
+        "party": "국민의힘",
+        "constituency": "대구 달서구병"
+      },
+      {
+        "name": "김대식",
+        "party": "국민의힘",
+        "constituency": "부산 사상구"
+      },
+      {
+        "name": "김병주",
+        "party": "더불어민주당",
+        "constituency": "경기 남양주시을"
+      },
+      {
+        "name": "김성원",
+        "party": "국민의힘",
+        "constituency": "경기 동두천시양주시연천군을"
+      },
+      {
+        "name": "김성회",
+        "party": "더불어민주당",
+        "constituency": "경기 고양시갑"
+      },
+      {
+        "name": "김승수",
+        "party": "국민의힘",
+        "constituency": "대구 북구을"
+      },
+      {
+        "name": "노종면",
+        "party": "더불어민주당",
+        "constituency": "인천 부평구갑"
+      },
+      {
+        "name": "모경종",
+        "party": "더불어민주당",
+        "constituency": "인천 서구병"
+      },
+      {
+        "name": "박성준",
+        "party": "더불어민주당",
+        "constituency": "서울 중구성동구을"
+      },
+      {
+        "name": "박수민",
+        "party": "국민의힘",
+        "constituency": "서울 강남구을"
+      },
+      {
+        "name": "박찬대",
+        "party": "더불어민주당",
+        "constituency": "인천 연수구갑"
+      },
+      {
+        "name": "박형수",
+        "party": "국민의힘",
+        "constituency": "경북 의성군청송군영덕군울진군"
+      },
+      {
+        "name": "서미화",
+        "party": "더불어민주당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "서지영",
+        "party": "국민의힘",
+        "constituency": "부산 동래구"
+      },
+      {
+        "name": "신장식",
+        "party": "조국혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "양문석",
+        "party": "더불어민주당",
+        "constituency": "경기 안산시갑"
+      },
+      {
+        "name": "윤건영",
+        "party": "더불어민주당",
+        "constituency": "서울 구로구을"
+      },
+      {
+        "name": "윤종군",
+        "party": "더불어민주당",
+        "constituency": "경기 안성시"
+      },
+      {
+        "name": "이소영",
+        "party": "더불어민주당",
+        "constituency": "경기 의왕시과천시"
+      },
+      {
+        "name": "전용기",
+        "party": "더불어민주당",
+        "constituency": "경기 화성시정"
+      },
+      {
+        "name": "정진욱",
+        "party": "더불어민주당",
+        "constituency": "광주 동구남구갑"
+      },
+      {
+        "name": "주진우",
+        "party": "국민의힘",
+        "constituency": "부산 해운대구갑"
+      },
+      {
+        "name": "천하람",
+        "party": "개혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "추미애",
+        "party": "더불어민주당",
+        "constituency": "경기 하남시갑"
+      }
+    ]
+  },
+  "기획재정위원회": {
+    "committee_name": "기획재정위원회",
+    "member_count": 26,
+    "members": [
+      {
+        "name": "권영세",
+        "party": "국민의힘",
+        "constituency": "서울 용산구"
+      },
+      {
+        "name": "김영진",
+        "party": "더불어민주당",
+        "constituency": "경기 수원시병"
+      },
+      {
+        "name": "김영환",
+        "party": "더불어민주당",
+        "constituency": "경기 고양시정"
+      },
+      {
+        "name": "김태년",
+        "party": "더불어민주당",
+        "constituency": "경기 성남시수정구"
+      },
+      {
+        "name": "박대출",
+        "party": "국민의힘",
+        "constituency": "경남 진주시갑"
+      },
+      {
+        "name": "박성훈",
+        "party": "국민의힘",
+        "constituency": "부산 북구을"
+      },
+      {
+        "name": "박수영",
+        "party": "국민의힘",
+        "constituency": "부산 남구"
+      },
+      {
+        "name": "박홍근",
+        "party": "더불어민주당",
+        "constituency": "서울 중랑구을"
+      },
+      {
+        "name": "송언석",
+        "party": "국민의힘",
+        "constituency": "경북 김천시"
+      },
+      {
+        "name": "신동욱",
+        "party": "국민의힘",
+        "constituency": "서울 서초구을"
+      },
+      {
+        "name": "신영대",
+        "party": "더불어민주당",
+        "constituency": "전북 군산시김제시부안군갑"
+      },
+      {
+        "name": "안도걸",
+        "party": "더불어민주당",
+        "constituency": "광주 동구남구을"
+      },
+      {
+        "name": "오기형",
+        "party": "더불어민주당",
+        "constituency": "서울 도봉구을"
+      },
+      {
+        "name": "윤영석",
+        "party": "국민의힘",
+        "constituency": "경남 양산시갑"
+      },
+      {
+        "name": "윤호중",
+        "party": "더불어민주당",
+        "constituency": "경기 구리시"
+      },
+      {
+        "name": "이인선",
+        "party": "국민의힘",
+        "constituency": "대구 수성구을"
+      },
+      {
+        "name": "임광현",
+        "party": "더불어민주당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "정성호",
+        "party": "더불어민주당",
+        "constituency": "경기 동두천시양주시연천군갑"
+      },
+      {
+        "name": "정일영",
+        "party": "더불어민주당",
+        "constituency": "인천 연수구을"
+      },
+      {
+        "name": "정태호",
+        "party": "더불어민주당",
+        "constituency": "서울 관악구을"
+      },
+      {
+        "name": "조승래",
+        "party": "더불어민주당",
+        "constituency": "대전 유성구갑"
+      },
+      {
+        "name": "진성준",
+        "party": "더불어민주당",
+        "constituency": "서울 강서구을"
+      },
+      {
+        "name": "차규근",
+        "party": "조국혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "천하람",
+        "party": "개혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "최기상",
+        "party": "더불어민주당",
+        "constituency": "서울 금천구"
+      },
+      {
+        "name": "최은석",
+        "party": "국민의힘",
+        "constituency": "대구 동구군위군갑"
+      }
+    ]
+  },
+  "농림축산식품해양수산위원회": {
+    "committee_name": "농림축산식품해양수산위원회",
+    "member_count": 19,
+    "members": [
+      {
+        "name": "강명구",
+        "party": "국민의힘",
+        "constituency": "경북 구미시을"
+      },
+      {
+        "name": "김선교",
+        "party": "국민의힘",
+        "constituency": "경기 여주시양평군"
+      },
+      {
+        "name": "문금주",
+        "party": "더불어민주당",
+        "constituency": "전남 고흥군보성군장흥군강진군"
+      },
+      {
+        "name": "문대림",
+        "party": "더불어민주당",
+        "constituency": "제주 제주시갑"
+      },
+      {
+        "name": "박덕흠",
+        "party": "국민의힘",
+        "constituency": "충북 보은군옥천군영동군괴산군"
+      },
+      {
+        "name": "서삼석",
+        "party": "더불어민주당",
+        "constituency": "전남 영암군무안군신안군"
+      },
+      {
+        "name": "서천호",
+        "party": "국민의힘",
+        "constituency": "경남 사천시남해군하동군"
+      },
+      {
+        "name": "송옥주",
+        "party": "더불어민주당",
+        "constituency": "경기 화성시갑"
+      },
+      {
+        "name": "어기구",
+        "party": "더불어민주당",
+        "constituency": "충남 당진시"
+      },
+      {
+        "name": "윤준병",
+        "party": "더불어민주당",
+        "constituency": "전북 정읍시고창군"
+      },
+      {
+        "name": "이만희",
+        "party": "국민의힘",
+        "constituency": "경북 영천시청도군"
+      },
+      {
+        "name": "이병진",
+        "party": "더불어민주당",
+        "constituency": "경기 평택시을"
+      },
+      {
+        "name": "이원택",
+        "party": "더불어민주당",
+        "constituency": "전북 군산시김제시부안군을"
+      },
+      {
+        "name": "임미애",
+        "party": "더불어민주당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "임호선",
+        "party": "더불어민주당",
+        "constituency": "충북 증평군진천군음성군"
+      },
+      {
+        "name": "전종덕",
+        "party": "진보당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "정희용",
+        "party": "국민의힘",
+        "constituency": "경북 고령군성주군칠곡군"
+      },
+      {
+        "name": "조경태",
+        "party": "국민의힘",
+        "constituency": "부산 사하구을"
+      },
+      {
+        "name": "주철현",
+        "party": "더불어민주당",
+        "constituency": "전남 여수시갑"
+      }
+    ]
+  },
+  "문화체육관광위원회": {
+    "committee_name": "문화체육관광위원회",
+    "member_count": 15,
+    "members": [
+      {
+        "name": "김승수",
+        "party": "국민의힘",
+        "constituency": "대구 북구을"
+      },
+      {
+        "name": "김윤덕",
+        "party": "더불어민주당",
+        "constituency": "전북 전주시갑"
+      },
+      {
+        "name": "김재원",
+        "party": "조국혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "민형배",
+        "party": "더불어민주당",
+        "constituency": "광주 광산구을"
+      },
+      {
+        "name": "박수현",
+        "party": "더불어민주당",
+        "constituency": "충남 공주시부여군청양군"
+      },
+      {
+        "name": "박정하",
+        "party": "국민의힘",
+        "constituency": "강원 원주시갑"
+      },
+      {
+        "name": "배현진",
+        "party": "국민의힘",
+        "constituency": "서울 송파구을"
+      },
+      {
+        "name": "양문석",
+        "party": "더불어민주당",
+        "constituency": "경기 안산시갑"
+      },
+      {
+        "name": "이기헌",
+        "party": "더불어민주당",
+        "constituency": "경기 고양시병"
+      },
+      {
+        "name": "임오경",
+        "party": "더불어민주당",
+        "constituency": "경기 광명시갑"
+      },
+      {
+        "name": "전재수",
+        "party": "더불어민주당",
+        "constituency": "부산 북구갑"
+      },
+      {
+        "name": "정연욱",
+        "party": "국민의힘",
+        "constituency": "부산 수영구"
+      },
+      {
+        "name": "조계원",
+        "party": "더불어민주당",
+        "constituency": "전남 여수시을"
+      },
+      {
+        "name": "조은희",
+        "party": "국민의힘",
+        "constituency": "서울 서초구갑"
+      },
+      {
+        "name": "진종오",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      }
+    ]
+  },
+  "법제사법위원회": {
+    "committee_name": "법제사법위원회",
+    "member_count": 18,
+    "members": [
+      {
+        "name": "곽규택",
+        "party": "국민의힘",
+        "constituency": "부산 서구동구"
+      },
+      {
+        "name": "김기표",
+        "party": "더불어민주당",
+        "constituency": "경기 부천시을"
+      },
+      {
+        "name": "김용민",
+        "party": "더불어민주당",
+        "constituency": "경기 남양주시병"
+      },
+      {
+        "name": "박균택",
+        "party": "더불어민주당",
+        "constituency": "광주 광산구갑"
+      },
+      {
+        "name": "박범계",
+        "party": "더불어민주당",
+        "constituency": "대전 서구을"
+      },
+      {
+        "name": "박은정",
+        "party": "조국혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "박준태",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "박지원",
+        "party": "더불어민주당",
+        "constituency": "전남 해남군완도군진도군"
+      },
+      {
+        "name": "박희승",
+        "party": "더불어민주당",
+        "constituency": "전북 남원시장수군임실군순창군"
+      },
+      {
+        "name": "서영교",
+        "party": "더불어민주당",
+        "constituency": "서울 중랑구갑"
+      },
+      {
+        "name": "송석준",
+        "party": "국민의힘",
+        "constituency": "경기 이천시"
+      },
+      {
+        "name": "유상범",
+        "party": "국민의힘",
+        "constituency": "강원 홍천군횡성군영월군평창군"
+      },
+      {
+        "name": "이성윤",
+        "party": "더불어민주당",
+        "constituency": "전북 전주시을"
+      },
+      {
+        "name": "장경태",
+        "party": "더불어민주당",
+        "constituency": "서울 동대문구을"
+      },
+      {
+        "name": "장동혁",
+        "party": "국민의힘",
+        "constituency": "충남 보령시서천군"
+      },
+      {
+        "name": "정청래",
+        "party": "더불어민주당",
+        "constituency": "서울 마포구을"
+      },
+      {
+        "name": "조배숙",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "주진우",
+        "party": "국민의힘",
+        "constituency": "부산 해운대구갑"
+      }
+    ]
+  },
+  "보건복지위원회": {
+    "committee_name": "보건복지위원회",
+    "member_count": 24,
+    "members": [
+      {
+        "name": "강선우",
+        "party": "더불어민주당",
+        "constituency": "서울 강서구갑"
+      },
+      {
+        "name": "권성동",
+        "party": "국민의힘",
+        "constituency": "강원 강릉시"
+      },
+      {
+        "name": "김남희",
+        "party": "더불어민주당",
+        "constituency": "경기 광명시을"
+      },
+      {
+        "name": "김미애",
+        "party": "국민의힘",
+        "constituency": "부산 해운대구을"
+      },
+      {
+        "name": "김선민",
+        "party": "조국혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "김예지",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "김윤",
+        "party": "더불어민주당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "남인순",
+        "party": "더불어민주당",
+        "constituency": "서울 송파구병"
+      },
+      {
+        "name": "박주민",
+        "party": "더불어민주당",
+        "constituency": "서울 은평구갑"
+      },
+      {
+        "name": "백종헌",
+        "party": "국민의힘",
+        "constituency": "부산 금정구"
+      },
+      {
+        "name": "백혜련",
+        "party": "더불어민주당",
+        "constituency": "경기 수원시을"
+      },
+      {
+        "name": "서명옥",
+        "party": "국민의힘",
+        "constituency": "서울 강남구갑"
+      },
+      {
+        "name": "서미화",
+        "party": "더불어민주당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "서영석",
+        "party": "더불어민주당",
+        "constituency": "경기 부천시갑"
+      },
+      {
+        "name": "소병훈",
+        "party": "더불어민주당",
+        "constituency": "경기 광주시갑"
+      },
+      {
+        "name": "안상훈",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "이개호",
+        "party": "더불어민주당",
+        "constituency": "전남 담양군함평군영광군장성군"
+      },
+      {
+        "name": "이수진",
+        "party": "더불어민주당",
+        "constituency": "경기 성남시중원구"
+      },
+      {
+        "name": "이주영",
+        "party": "개혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "장종태",
+        "party": "더불어민주당",
+        "constituency": "대전 서구갑"
+      },
+      {
+        "name": "전진숙",
+        "party": "더불어민주당",
+        "constituency": "광주 북구을"
+      },
+      {
+        "name": "천준호",
+        "party": "더불어민주당",
+        "constituency": "서울 강북구갑"
+      },
+      {
+        "name": "최보윤",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "한지아",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      }
+    ]
+  },
+  "산업통상자원중소벤처기업위원회": {
+    "committee_name": "산업통상자원중소벤처기업위원회",
+    "member_count": 30,
+    "members": [
+      {
+        "name": "강승규",
+        "party": "국민의힘",
+        "constituency": "충남 홍성군예산군"
+      },
+      {
+        "name": "곽상언",
+        "party": "더불어민주당",
+        "constituency": "서울 종로구"
+      },
+      {
+        "name": "구자근",
+        "party": "국민의힘",
+        "constituency": "경북 구미시갑"
+      },
+      {
+        "name": "권향엽",
+        "party": "더불어민주당",
+        "constituency": "전남 순천시광양시곡성군구례군을"
+      },
+      {
+        "name": "김교흥",
+        "party": "더불어민주당",
+        "constituency": "인천 서구갑"
+      },
+      {
+        "name": "김동아",
+        "party": "더불어민주당",
+        "constituency": "서울 서대문구갑"
+      },
+      {
+        "name": "김성원",
+        "party": "국민의힘",
+        "constituency": "경기 동두천시양주시연천군을"
+      },
+      {
+        "name": "김성환",
+        "party": "더불어민주당",
+        "constituency": "서울 노원구을"
+      },
+      {
+        "name": "김원이",
+        "party": "더불어민주당",
+        "constituency": "전남 목포시"
+      },
+      {
+        "name": "김정호",
+        "party": "더불어민주당",
+        "constituency": "경남 김해시을"
+      },
+      {
+        "name": "김종민",
+        "party": "무소속",
+        "constituency": "세종특별자치시갑"
+      },
+      {
+        "name": "김한규",
+        "party": "더불어민주당",
+        "constituency": "제주 제주시을"
+      },
+      {
+        "name": "나경원",
+        "party": "국민의힘",
+        "constituency": "서울 동작구을"
+      },
+      {
+        "name": "박상웅",
+        "party": "국민의힘",
+        "constituency": "경남 밀양시의령군함안군창녕군"
+      },
+      {
+        "name": "박성민",
+        "party": "국민의힘",
+        "constituency": "울산 중구"
+      },
+      {
+        "name": "박지혜",
+        "party": "더불어민주당",
+        "constituency": "경기 의정부시갑"
+      },
+      {
+        "name": "박형수",
+        "party": "국민의힘",
+        "constituency": "경북 의성군청송군영덕군울진군"
+      },
+      {
+        "name": "서왕진",
+        "party": "조국혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "서일준",
+        "party": "국민의힘",
+        "constituency": "경남 거제시"
+      },
+      {
+        "name": "송재봉",
+        "party": "더불어민주당",
+        "constituency": "충북 청주시청원구"
+      },
+      {
+        "name": "오세희",
+        "party": "더불어민주당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "이언주",
+        "party": "더불어민주당",
+        "constituency": "경기 용인시정"
+      },
+      {
+        "name": "이재관",
+        "party": "더불어민주당",
+        "constituency": "충남 천안시을"
+      },
+      {
+        "name": "이종배",
+        "party": "국민의힘",
+        "constituency": "충북 충주시"
+      },
+      {
+        "name": "이철규",
+        "party": "국민의힘",
+        "constituency": "강원 동해시태백시삼척시정선군"
+      },
+      {
+        "name": "장철민",
+        "party": "더불어민주당",
+        "constituency": "대전 동구"
+      },
+      {
+        "name": "정동만",
+        "party": "국민의힘",
+        "constituency": "부산 기장군"
+      },
+      {
+        "name": "정진욱",
+        "party": "더불어민주당",
+        "constituency": "광주 동구남구갑"
+      },
+      {
+        "name": "허성무",
+        "party": "더불어민주당",
+        "constituency": "경남 창원시성산구"
+      },
+      {
+        "name": "허종식",
+        "party": "더불어민주당",
+        "constituency": "인천 동구미추홀구갑"
+      }
+    ]
+  },
+  "여성가족위원회": {
+    "committee_name": "여성가족위원회",
+    "member_count": 17,
+    "members": [
+      {
+        "name": "김남근",
+        "party": "더불어민주당",
+        "constituency": "서울 성북구을"
+      },
+      {
+        "name": "김남희",
+        "party": "더불어민주당",
+        "constituency": "경기 광명시을"
+      },
+      {
+        "name": "김용만",
+        "party": "더불어민주당",
+        "constituency": "경기 하남시을"
+      },
+      {
+        "name": "김한규",
+        "party": "더불어민주당",
+        "constituency": "제주 제주시을"
+      },
+      {
+        "name": "백승아",
+        "party": "더불어민주당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "서명옥",
+        "party": "국민의힘",
+        "constituency": "서울 강남구갑"
+      },
+      {
+        "name": "서범수",
+        "party": "국민의힘",
+        "constituency": "울산 울주군"
+      },
+      {
+        "name": "서영교",
+        "party": "더불어민주당",
+        "constituency": "서울 중랑구갑"
+      },
+      {
+        "name": "이달희",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "이연희",
+        "party": "더불어민주당",
+        "constituency": "충북 청주시흥덕구"
+      },
+      {
+        "name": "이인선",
+        "party": "국민의힘",
+        "constituency": "대구 수성구을"
+      },
+      {
+        "name": "임미애",
+        "party": "더불어민주당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "장철민",
+        "party": "더불어민주당",
+        "constituency": "대전 동구"
+      },
+      {
+        "name": "전진숙",
+        "party": "더불어민주당",
+        "constituency": "광주 북구을"
+      },
+      {
+        "name": "정춘생",
+        "party": "조국혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "조은희",
+        "party": "국민의힘",
+        "constituency": "서울 서초구갑"
+      },
+      {
+        "name": "한지아",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      }
+    ]
+  },
+  "외교통일위원회": {
+    "committee_name": "외교통일위원회",
+    "member_count": 20,
+    "members": [
+      {
+        "name": "권칠승",
+        "party": "더불어민주당",
+        "constituency": "경기 화성시병"
+      },
+      {
+        "name": "김건",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "김기웅",
+        "party": "국민의힘",
+        "constituency": "대구 중구남구"
+      },
+      {
+        "name": "김기현",
+        "party": "국민의힘",
+        "constituency": "울산 남구을"
+      },
+      {
+        "name": "김석기",
+        "party": "국민의힘",
+        "constituency": "경북 경주시"
+      },
+      {
+        "name": "김영배",
+        "party": "더불어민주당",
+        "constituency": "서울 성북구갑"
+      },
+      {
+        "name": "김준형",
+        "party": "조국혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "김태호",
+        "party": "국민의힘",
+        "constituency": "경남 양산시을"
+      },
+      {
+        "name": "안철수",
+        "party": "국민의힘",
+        "constituency": "경기 성남시분당구갑"
+      },
+      {
+        "name": "유용원",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "윤후덕",
+        "party": "더불어민주당",
+        "constituency": "경기 파주시갑"
+      },
+      {
+        "name": "이용선",
+        "party": "더불어민주당",
+        "constituency": "서울 양천구을"
+      },
+      {
+        "name": "이재강",
+        "party": "더불어민주당",
+        "constituency": "경기 의정부시을"
+      },
+      {
+        "name": "이재정",
+        "party": "더불어민주당",
+        "constituency": "경기 안양시동안구을"
+      },
+      {
+        "name": "인요한",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "조정식",
+        "party": "더불어민주당",
+        "constituency": "경기 시흥시을"
+      },
+      {
+        "name": "차지호",
+        "party": "더불어민주당",
+        "constituency": "경기 오산시"
+      },
+      {
+        "name": "최혁진",
+        "party": "무소속",
+        "constituency": null
+      },
+      {
+        "name": "한정애",
+        "party": "더불어민주당",
+        "constituency": "서울 강서구병"
+      },
+      {
+        "name": "홍기원",
+        "party": "더불어민주당",
+        "constituency": "경기 평택시갑"
+      }
+    ]
+  },
+  "정무위원회": {
+    "committee_name": "정무위원회",
+    "member_count": 24,
+    "members": [
+      {
+        "name": "강민국",
+        "party": "국민의힘",
+        "constituency": "경남 진주시을"
+      },
+      {
+        "name": "강준현",
+        "party": "더불어민주당",
+        "constituency": "세종특별자치시을"
+      },
+      {
+        "name": "김남근",
+        "party": "더불어민주당",
+        "constituency": "서울 성북구을"
+      },
+      {
+        "name": "김병기",
+        "party": "더불어민주당",
+        "constituency": "서울 동작구갑"
+      },
+      {
+        "name": "김상훈",
+        "party": "국민의힘",
+        "constituency": "대구 서구"
+      },
+      {
+        "name": "김승원",
+        "party": "더불어민주당",
+        "constituency": "경기 수원시갑"
+      },
+      {
+        "name": "김용만",
+        "party": "더불어민주당",
+        "constituency": "경기 하남시을"
+      },
+      {
+        "name": "김재섭",
+        "party": "국민의힘",
+        "constituency": "서울 도봉구갑"
+      },
+      {
+        "name": "김현정",
+        "party": "더불어민주당",
+        "constituency": "경기 평택시병 "
+      },
+      {
+        "name": "민병덕",
+        "party": "더불어민주당",
+        "constituency": "경기 안양시동안구갑"
+      },
+      {
+        "name": "박상혁",
+        "party": "더불어민주당",
+        "constituency": "경기 김포시을"
+      },
+      {
+        "name": "박찬대",
+        "party": "더불어민주당",
+        "constituency": "인천 연수구갑"
+      },
+      {
+        "name": "신장식",
+        "party": "조국혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "유동수",
+        "party": "더불어민주당",
+        "constituency": "인천 계양구갑"
+      },
+      {
+        "name": "유영하",
+        "party": "국민의힘",
+        "constituency": "대구 달서구갑"
+      },
+      {
+        "name": "윤한홍",
+        "party": "국민의힘",
+        "constituency": "경남 창원시마산회원구"
+      },
+      {
+        "name": "이강일",
+        "party": "더불어민주당",
+        "constituency": "충북 청주시상당구"
+      },
+      {
+        "name": "이양수",
+        "party": "국민의힘",
+        "constituency": "강원 속초시인제군고성군양양군"
+      },
+      {
+        "name": "이인영",
+        "party": "더불어민주당",
+        "constituency": "서울 구로구갑"
+      },
+      {
+        "name": "이정문",
+        "party": "더불어민주당",
+        "constituency": "충남 천안시병"
+      },
+      {
+        "name": "이헌승",
+        "party": "국민의힘",
+        "constituency": "부산 부산진구을"
+      },
+      {
+        "name": "전현희",
+        "party": "더불어민주당",
+        "constituency": "서울 중구성동구갑"
+      },
+      {
+        "name": "추경호",
+        "party": "국민의힘",
+        "constituency": "대구 달성군"
+      },
+      {
+        "name": "한창민",
+        "party": "사회민주당",
+        "constituency": "비례대표"
+      }
+    ]
+  },
+  "정보위원회": {
+    "committee_name": "정보위원회",
+    "member_count": 12,
+    "members": [
+      {
+        "name": "권성동",
+        "party": "국민의힘",
+        "constituency": "강원 강릉시"
+      },
+      {
+        "name": "권영세",
+        "party": "국민의힘",
+        "constituency": "서울 용산구"
+      },
+      {
+        "name": "김병기",
+        "party": "더불어민주당",
+        "constituency": "서울 동작구갑"
+      },
+      {
+        "name": "김영진",
+        "party": "더불어민주당",
+        "constituency": "경기 수원시병"
+      },
+      {
+        "name": "박선원",
+        "party": "더불어민주당",
+        "constituency": "인천 부평구을"
+      },
+      {
+        "name": "박지원",
+        "party": "더불어민주당",
+        "constituency": "전남 해남군완도군진도군"
+      },
+      {
+        "name": "박찬대",
+        "party": "더불어민주당",
+        "constituency": "인천 연수구갑"
+      },
+      {
+        "name": "신성범",
+        "party": "국민의힘",
+        "constituency": "경남 산청군함양군거창군합천군"
+      },
+      {
+        "name": "유영하",
+        "party": "국민의힘",
+        "constituency": "대구 달서구갑"
+      },
+      {
+        "name": "윤건영",
+        "party": "더불어민주당",
+        "constituency": "서울 구로구을"
+      },
+      {
+        "name": "이기헌",
+        "party": "더불어민주당",
+        "constituency": "경기 고양시병"
+      },
+      {
+        "name": "이성권",
+        "party": "국민의힘",
+        "constituency": "부산 사하구갑"
+      }
+    ]
+  },
+  "행정안전위원회": {
+    "committee_name": "행정안전위원회",
+    "member_count": 22,
+    "members": [
+      {
+        "name": "고동진",
+        "party": "국민의힘",
+        "constituency": "서울 강남구병"
+      },
+      {
+        "name": "김상욱",
+        "party": "더불어민주당",
+        "constituency": "울산 남구갑"
+      },
+      {
+        "name": "김성회",
+        "party": "더불어민주당",
+        "constituency": "경기 고양시갑"
+      },
+      {
+        "name": "모경종",
+        "party": "더불어민주당",
+        "constituency": "인천 서구병"
+      },
+      {
+        "name": "박수민",
+        "party": "국민의힘",
+        "constituency": "서울 강남구을"
+      },
+      {
+        "name": "박정현",
+        "party": "더불어민주당",
+        "constituency": "대전 대덕구"
+      },
+      {
+        "name": "서범수",
+        "party": "국민의힘",
+        "constituency": "울산 울주군"
+      },
+      {
+        "name": "신정훈",
+        "party": "더불어민주당",
+        "constituency": "전남 나주시화순군"
+      },
+      {
+        "name": "양부남",
+        "party": "더불어민주당",
+        "constituency": "광주 서구을"
+      },
+      {
+        "name": "용혜인",
+        "party": "기본소득당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "위성곤",
+        "party": "더불어민주당",
+        "constituency": "제주 서귀포시"
+      },
+      {
+        "name": "윤건영",
+        "party": "더불어민주당",
+        "constituency": "서울 구로구을"
+      },
+      {
+        "name": "이광희",
+        "party": "더불어민주당",
+        "constituency": "충북 청주시서원구"
+      },
+      {
+        "name": "이달희",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "이상식",
+        "party": "더불어민주당",
+        "constituency": "경기 용인시갑"
+      },
+      {
+        "name": "이성권",
+        "party": "국민의힘",
+        "constituency": "부산 사하구갑"
+      },
+      {
+        "name": "이해식",
+        "party": "더불어민주당",
+        "constituency": "서울 강동구을"
+      },
+      {
+        "name": "정춘생",
+        "party": "조국혁신당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "조승환",
+        "party": "국민의힘",
+        "constituency": "부산 중구영도구"
+      },
+      {
+        "name": "주호영",
+        "party": "국민의힘",
+        "constituency": "대구 수성구갑"
+      },
+      {
+        "name": "채현일",
+        "party": "더불어민주당",
+        "constituency": "서울 영등포구갑"
+      },
+      {
+        "name": "한병도",
+        "party": "더불어민주당",
+        "constituency": "전북 익산시을 "
+      }
+    ]
+  },
+  "환경노동위원회": {
+    "committee_name": "환경노동위원회",
+    "member_count": 16,
+    "members": [
+      {
+        "name": "강득구",
+        "party": "더불어민주당",
+        "constituency": "경기 안양시만안구"
+      },
+      {
+        "name": "김소희",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "김위상",
+        "party": "국민의힘",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "김주영",
+        "party": "더불어민주당",
+        "constituency": "경기 김포시갑"
+      },
+      {
+        "name": "김태선",
+        "party": "더불어민주당",
+        "constituency": "울산 동구"
+      },
+      {
+        "name": "김형동",
+        "party": "국민의힘",
+        "constituency": "경북 안동시예천군"
+      },
+      {
+        "name": "박정",
+        "party": "더불어민주당",
+        "constituency": "경기 파주시을"
+      },
+      {
+        "name": "박해철",
+        "party": "더불어민주당",
+        "constituency": "경기 안산시병"
+      },
+      {
+        "name": "박홍배",
+        "party": "더불어민주당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "안호영",
+        "party": "더불어민주당",
+        "constituency": "전북 완주군진안군무주군"
+      },
+      {
+        "name": "우재준",
+        "party": "국민의힘",
+        "constituency": "대구 북구갑"
+      },
+      {
+        "name": "이용우",
+        "party": "더불어민주당",
+        "constituency": "인천 서구을"
+      },
+      {
+        "name": "이학영",
+        "party": "더불어민주당",
+        "constituency": "경기 군포시"
+      },
+      {
+        "name": "임이자",
+        "party": "국민의힘",
+        "constituency": "경북 상주시문경시 "
+      },
+      {
+        "name": "정혜경",
+        "party": "진보당",
+        "constituency": "비례대표"
+      },
+      {
+        "name": "조지연",
+        "party": "국민의힘",
+        "constituency": "경북 경산시"
+      }
+    ]
+  }
+}
